@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>56028018161-mc0o2vrpsrg9p6k2e1nis4rf36kbuuru.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.56028018161-mc0o2vrpsrg9p6k2e1nis4rf36kbuuru</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqhM_eQrYfwBNiV_Oo5y2MUog5e4KVTXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>56028018161</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>YOLO.FORTH</string>
+	<key>PROJECT_ID</key>
+	<string>forth-a47e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>forth-a47e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:56028018161:ios:a695287c7f4104e5</string>
+	<key>DATABASE_URL</key>
+	<string>https://forth-a47e9.firebaseio.com</string>
+</dict>
+</plist>
