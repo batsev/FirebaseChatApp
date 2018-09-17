@@ -48,6 +48,9 @@ class MessagesController: UITableViewController {
                 message.text = dictionary["text"] as? String
                 message.timestamp = dictionary["timestamp"] as? NSNumber
                 message.toId = dictionary["toId"] as? String
+                if let chatPartnerId = message.chatPartnerId() {
+                    self.messagesDictionary[chatPartnerId] = message
+                }
                 self.attemtOfReloadTable()
             }
         }, withCancel: nil)
